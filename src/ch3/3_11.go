@@ -1,5 +1,7 @@
 package main
 
+// https://github.com/golang/text.git
+
 import (
 	"fmt"
 	"golang.org/x/text/language"
